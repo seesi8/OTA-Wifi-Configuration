@@ -15,7 +15,7 @@ a Chromecast or similar device can be configured).
 ## Installation Instructions:
 
 -   Navigate to the directory where you downloaded or cloned OTA Wifi Configuration
-
+##THIS FILE DOES NOT EXIST? 
 -   Run: `sudo python3 setup.py`, **Must be run with sudo or as root**
 
 -   This script will install all necessary prerequisites and copy all necessary
